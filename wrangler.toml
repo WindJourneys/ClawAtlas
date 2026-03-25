@@ -1,0 +1,10 @@
+name = "claw-atlas"
+compatibility_date = "2024-01-01"
+
+[build]
+command = "npx opennextjs-cloudflare build"
+cwd = "."
+watch_dirs = ["app"]
+
+[build.environment_variables]
+NODE_VERSION = "18"
