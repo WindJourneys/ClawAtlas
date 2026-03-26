@@ -74,12 +74,12 @@ export const categories: Category[] = [
         tags: ['official', 'community']
       },
       {
-        title: '完整功能列表',
-        titleEn: 'Full Feature List',
-        url: 'https://docs.openclaw.ai/concepts/features',
-        description: 'OpenClaw 完整功能列表',
-        descriptionEn: 'Complete channel, routing, and media capabilities',
-        tags: ['official', 'features']
+        title: '工具和插件',
+        titleEn: 'Tools and Plugins',
+        url: 'https://docs.openclaw.ai/tools',
+        description: 'OpenClaw 工具和插件文档',
+        descriptionEn: 'Tools, skills, and plugins documentation',
+        tags: ['official', 'tools', 'plugins']
       }
     ]
   },
