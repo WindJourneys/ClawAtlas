@@ -74,12 +74,12 @@ export const categories: Category[] = [
         tags: ['official', 'community']
       },
       {
-        title: 'API 文档',
-        titleEn: 'API Documentation',
-        url: 'https://docs.openclaw.ai/api/agents',
-        description: '开发者 API 参考文档',
-        descriptionEn: 'API reference for developers and plugin creators',
-        tags: ['official', 'api', 'docs']
+        title: '插件开发',
+        titleEn: 'Plugin Development',
+        url: 'https://docs.openclaw.ai/plugins/development',
+        description: '开发自定义插件',
+        descriptionEn: 'Create custom plugins and extend OpenClaw capabilities',
+        tags: ['official', 'plugins', 'development']
       }
     ]
   },
