@@ -68,7 +68,7 @@ export const categories: Category[] = [
       {
         title: '社区指南',
         titleEn: 'Community Guidelines',
-        url: 'https://docs.openclaw.ai/community',
+        url: 'https://github.com/openclaw/openclaw/blob/main/CONTRIBUTING.md',
         description: '社区参与规范和最佳实践',
         descriptionEn: 'How to contribute, report issues, and engage with community',
         tags: ['official', 'community']
@@ -76,7 +76,7 @@ export const categories: Category[] = [
       {
         title: 'API 文档',
         titleEn: 'API Documentation',
-        url: 'https://docs.openclaw.ai/api',
+        url: 'https://docs.openclaw.ai/api/agents',
         description: '开发者 API 参考文档',
         descriptionEn: 'API reference for developers and plugin creators',
         tags: ['official', 'api', 'docs']
